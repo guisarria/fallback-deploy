@@ -170,7 +170,7 @@ export default function IndexPage() {
           </div>
         </div>
       </section>
-      <div className="absolute left-0 top-96 h-[450px] w-[450px]">
+      <div className="absolute left-0 top-96 h-[300px] w-[300px]">
         <Image className="dark:invert" src={"/shape-7.png"} alt="shape" fill />
       </div>
       <div className="absolute bottom-[800px] right-10 h-[300px] w-[300px] md:bottom-[800px] md:h-[350px] md:w-[350px]">
