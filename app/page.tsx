@@ -177,7 +177,7 @@ export default function IndexPage() {
         <Image className="dark:invert" src={"/shape-23.png"} alt="shape" fill />
       </div>
       <div className="absolute bottom-32 left-0 h-[400px] w-[400px]">
-        <Image className="dark:invert" src={"/8.png"} alt="shape" fill />
+        <Image className="dark:invert" src={"/shape-8.png"} alt="shape" fill />
       </div>
     </div>
   )
