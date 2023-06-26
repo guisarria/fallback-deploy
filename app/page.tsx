@@ -24,7 +24,7 @@ export default function IndexPage() {
     <div className="flex flex-col content-center items-center justify-center">
       <section className="z-10 pt-20">
         <div className="container flex flex-col items-center justify-center gap-6 text-center">
-          <h1 className="text-5xl font-black leading-tight tracking-tight blur-[0.8px] md:text-6xl md:leading-normal lg:text-8xl">
+          <h1 className="text-4xl font-black leading-tight tracking-tight blur-[0.8px] md:text-6xl md:leading-normal lg:text-8xl">
             This is <br className="inline" />
             Dashboard
             <b className="text-white drop-shadow-sm dark:text-orange-300">
@@ -176,7 +176,7 @@ export default function IndexPage() {
       <div className="absolute bottom-[800px] right-10 h-[300px] w-[300px] md:bottom-[800px] md:h-[350px] md:w-[350px]">
         <Image className="dark:invert" src={"/shape-23.png"} alt="shape" fill />
       </div>
-      <div className="absolute bottom-32 left-0 h-[400px] w-[400px]">
+      <div className="absolute bottom-32 left-0 h-[350px] w-[350px]">
         <Image className="dark:invert" src={"/shape-8.png"} alt="shape" fill />
       </div>
     </div>
