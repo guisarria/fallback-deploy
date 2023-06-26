@@ -123,7 +123,7 @@ export default function IndexPage() {
       </div>
       <section
         id="contact"
-        className="container z-10 my-10 flex h-[400px] content-center items-center justify-center rounded-none border bg-background/80 backdrop-blur-md md:max-w-[70rem] md:rounded-xl"
+        className="container z-10 my-10 flex h-[400px] content-center py-8 items-center justify-center rounded-none border bg-background/80 backdrop-blur-md md:max-w-[70rem] md:rounded-xl"
       >
         <div className="grid grid-cols-1 lg:grid-cols-2">
           <div className="grid-col-1 mb-10 grid text-left lg:mx-10 lg:mb-0">
