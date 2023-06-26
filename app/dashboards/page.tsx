@@ -10,13 +10,13 @@ export default function IndexPage() {
       <section className="gap-6 pt-20">
         <div className="container flex max-w-[980px] flex-col justify-start gap-y-6">
           <span className="flex gap-2">
-            <CornerUpLeft className="h-20 w-20 text-sky-400 blur-[1.2px] dark:text-sky-300" />
-            <h1 className="text-5xl font-extrabold leading-tight tracking-tighter blur-[0.6px] md:text-7xl">
+            <CornerUpLeft className="h-12 w-12 text-sky-400 blur-[1.2px] dark:text-sky-300" />
+            <h1 className="text-3xl font-extrabold leading-tight tracking-tighter blur-[0.6px] md:text-7xl">
               Your <br />
               Dashboards.
             </h1>
           </span>
-          <p className="pl-24 text-2xl blur-[0.4px]">
+          <p className="pl-24 text-xl blur-[0.4px]">
             All your dashboards
             <br className="" /> in one place.
           </p>
