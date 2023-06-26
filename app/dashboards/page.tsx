@@ -16,7 +16,7 @@ export default function IndexPage() {
               Dashboards.
             </h1>
           </span>
-          <p className="pl-24 text-xl blur-[0.4px]">
+          <p className="pl-16 md:pl-24 text-xl md:text-2xl blur-[0.4px]">
             All your dashboards
             <br className="" /> in one place.
           </p>
