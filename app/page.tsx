@@ -27,7 +27,7 @@ export default function IndexPage() {
           <h1 className="text-4xl font-black leading-tight tracking-tight blur-[0.8px] md:text-6xl md:leading-normal lg:text-8xl">
             This is <br className="inline" />
             Dashboard
-            <b className="text-white drop-shadow-sm dark:text-orange-300">
+            <b className="text-white drop-shadow-md dark:text-orange-300">
               FallBack
             </b>
           </h1>
