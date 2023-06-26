@@ -1,11 +1,15 @@
-# next-template
+# fallback-dash
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+Modern template for a SASS project, already configured following all best pratices.
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npm i
+```
+
+```bash
+npm run dev
 ```
 
 ## Features
