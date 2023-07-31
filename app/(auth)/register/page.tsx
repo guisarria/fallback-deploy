@@ -7,7 +7,7 @@ import { Icons } from "@/components/icons"
 export default function RegisterPage() {
   return (
     <div className="container flex h-screen w-screen flex-col items-center justify-center">
-      <div className="-mt-40 space-y-6 rounded-lg border-2 bg-background/70 p-10 pt-16">
+      <div className="-mt-40 space-y-6 rounded-lg border-2 bg-background/70 p-10 pt-16 z-10">
         <div className="mx-auto flex w-full flex-col justify-center space-y-4 sm:w-[350px]">
           <div className="flex flex-col items-center space-y-2 text-center">
             <Icons.logo className="mx-auto h-10 w-10" />
