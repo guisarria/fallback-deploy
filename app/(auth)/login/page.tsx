@@ -8,7 +8,7 @@ export default function LoginPage() {
   return (
     <>
       <div className="container flex h-screen w-screen flex-col items-center justify-center">
-        <div className="mx-auto -mt-40 flex flex-col justify-center space-y-6 rounded-lg border-2 bg-background/70 bg-cover p-10 pt-16 backdrop-blur-md sm:w-[350px]">
+        <div className="mx-auto -mt-40 flex flex-col justify-center space-y-6 rounded-lg border-2 bg-background/70 bg-cover p-10 pt-16 backdrop-blur-md sm:w-[350px] z-10">
           <div className="flex flex-col items-center space-y-2 text-center">
             <User className="h-[40px] w-[40px] blur-[0.4px]" />
             <h1 className="text-2xl tracking-tighter blur-[0.4px]">
